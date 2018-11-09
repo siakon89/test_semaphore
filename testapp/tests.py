@@ -56,3 +56,6 @@ class TestingTheTest(TestCase):
 
     def test_simple81(self):
         self.assertEqual(1, 2, 'Ooops.')
+
+    def test_simple81(self):
+        self.assertEqual(1, 2, 'Ooops.')
